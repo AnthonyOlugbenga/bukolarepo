@@ -1,1 +1,1 @@
-console.log("it is just the beginning")
+console.log("it is just second")
